@@ -5,7 +5,7 @@ const Counter = (props) => {
     const {valueIncrease}=props;
     return (
         <div>
-            <button onClick={valueIncrease}>Increase Up</button>
+            <button onClick={valueIncrease}>Increase@1</button>   
         </div>
     );
 };
